@@ -16,6 +16,6 @@ The goal of this team is to make Coherence practical for real-world machine lear
 - **Pull Requests**: All contributions should be made through pull requests with clear descriptions and references to relevant issues or discussion threads.
 
 ## Additional Resources
-Look in the `doc` directory for academic papers and references about Coherence and related topics. These materials provide useful background reading.
+Look in the `docs/pdf` directory for academic papers and references about Coherence and related topics. These materials provide useful background reading.
 
 We're excited to have you on board. Let's build a fast, scalable Coherence metric together!
